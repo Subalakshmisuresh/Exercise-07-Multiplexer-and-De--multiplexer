@@ -68,14 +68,20 @@ RegisterNumber:
 
 
 
+![mul](https://user-images.githubusercontent.com/121957896/213929802-293a6c8f-249b-4b65-aa49-df887f8d3082.png)
 
 
 
+![demux](https://user-images.githubusercontent.com/121957896/213929849-3c01b6d1-73c0-41a1-bf5e-3c978c5b71e3.png)
 
 ### TIMING DIGRAMS  
 
 
 
+![mux td](https://user-images.githubusercontent.com/121957896/213929869-7bace9ff-2726-4122-bc86-2bbd56ad278d.png)
+
+
+![demux td](https://user-images.githubusercontent.com/121957896/213929856-e7fa595f-0fa2-46d4-b3e7-13786ad0820a.png)
 
 
 ### TRUTH TABLE 
